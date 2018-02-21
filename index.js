@@ -1,2 +1,2 @@
-import test from './src/test';
-test();
+import test from "./src/test"
+test()
